@@ -1,134 +1,172 @@
 {
   "basics": {
-    "name": "Jonathan Bloomer",
-    "label": "Lead Front End Developer",
+    "name": "Daniel Leitón",
+    "label": "FullStack Web Engineer",
     "picture": "./profilePhoto.jpg",
-    "email": "jonbloomer@gmail.com",
-    "phone": "0403933281",
-    "website": "http://freaksauce.com",
-    "summary": "Over the past 16 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. My current role at IAG is Front End Lead for a small React team and have been developing with React and Redux for the past 2 years.",
+    "email": "dleitonrivera@gmail.com",
+    "phone": "(+506)85193867",
+    "website": "http://kaizenhack.com",
+    "summary": "I'm a Software Engineer emphasized on analysis, design, programming and implementation of WEB Information Systems. I'm good at abstracting requirements and process systematization, as well as to develop computer solutions. I'm a result-oriented professional and I have ability to work in teams giving creative ideas, ability to learn and adapt my self to new technologies. I like organizational dynamism. Currently studying a Master's Degree in Information Systems.",
     "location": {
-      "address": "Sutherland",
-      "postalCode": "2232",
-      "city": "Sydney",
-      "countryCode": "Aus",
-      "region": "NSW"
+      "address": "Paso Real",
+      "postalCode": "020108",
+      "city": "Alajuela",
+      "countryCode": "CRI",
+      "region": "C.A."
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "jonbloomer",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "DanielLeiton",
+        "url": "https://www.linkedin.com/in/daniel-leit%C3%B3n-49025543/"
       },
       {
         "network": "Github",
-        "username": "freaksauce",
-        "url": ""
+        "username": "DannyLeiton",
+        "url": "https://github.com/DannyLeiton"
+      },
+      {
+        "network": "Bitbucket",
+        "username": "dleiton",
+        "url": "https://bitbucket.org/dleiton/"
+      },
+      {
+        "network": "Twitter",
+        "username": "@dleiton90",
+        "url": "https://twitter.com/dleiton90"
+      },
+      {
+        "network": "Facebook",
+        "username": "dleiton",
+        "url": "https://www.facebook.com/dleiton"
+      },
+      {
+        "network": "Instagram",
+        "username": "daleriver90",
+        "url": "https://www.instagram.com/daleriver90/"
       }
     ]
   },
   "work": [
     {
-      "company": "IAG",
-      "position": "Lead Front End Developer",
-      "website": "http://nrma.com.au",
-      "startDate": "2016-08-01",
+      "company": "Kaizen Hack",
+      "position": "Founder & CEO",
+      "website": "http://www.kaizenhack.com/",
+      "startDate": "2017-10-01",
       "endDate": "",
-      "summary": "I am currently working as a lead front end developer on a small React team building Insurance applications and I am across multiple applications that have been built or are being built using our new development stack. IAG are keen to utilise the latest front end technologies and we have had great success as a team using React/Redux running on a Node Express server and using an API backend architecture to access the various IAG systems. We are striving to increase the quality of our projects with good test coverage and code reviews and improving our continuous integration practices.",
+      "summary": "Owner of an amazing project coming soon.",
       "highlights": []
     },
     {
-      "company": "Pacific Magazines",
-      "position": "Senior Front End Developer",
-      "website": "",
-      "startDate": "2016-03-01",
+      "company": "IBM",
+      "position": "Software Engineer",
+      "website": "https://www.ibm.com/cr-es/",
+      "startDate": "2016-11-20",
+      "endDate": "",
+      "summary": "Making Software Engineering Solutions for the IBM Cloud Infrastructure Teams.",
+      "highlights": []
+    },
+    {
+      "company": "SBR Sportsbook Review",
+      "position": "FullStack Developer",
+      "website": "https://www.sportsbookreview.com/",
+      "startDate": "2016-11-01",
+      "endDate": "2017-11-02",
+      "summary": "Working on internal projects made from the scratch using ReactJS and NodeJS, on a micro-service oriented architecture, using git as code control system and agile development methodology.",
+      "highlights": []
+    },
+    {
+      "company": "Novacomp",
+      "position": "Senior Consultant",
+      "website": "http://www.crnova.com/",
+      "startDate": "2015-01-01",
       "endDate": "2016-08-01",
-      "summary": "During my time at Pacific Magazines I worked on a couple of large React applications using React/Redux to integrate with a .NET MVC Application.",
+      "summary": "Senior Consultant in the IT field, working on large software projects with different technologies, including Oracle, Microsoft and OpenSource tools. Contractor at Intel, making application support on .NET and AngularJS applications.",
       "highlights": []
     },
     {
-      "company": "IAG",
-      "position": "UI Developer",
-      "website": "http://nrma.com.au",
-      "startDate": "2014-11-01",
-      "endDate": "2016-03-01",
-      "summary": "Working as a UI developer as part of IAG Labs developing html/css/javascript solutions to integrate with the backend systems for the online quoting applications.",
+      "company": "Alimentos Prosalud",
+      "position": ".NET & JDE Developer",
+      "website": "http://www.alimentosprosalud.com/",
+      "startDate": "2014-01-01",
+      "endDate": "2015-10-01",
+      "summary": "As part of the IT Department at Alimentos Prosalud, my responsibilities were the development and support of .NET Applications, as well as the development and support of features over JDEdwards. Between the different KPIs I have had succesful performance, include Team Leading in Software Development as well as research about new Technologies such as Modern Web Development, Development in SharePoint online environment and Office 365 apps. Oracle Application Express is another technology I had to deal with.",
+      "highlights": ["All KPI's successfully achieved"]
+    },{
+      "company": "GBM (an IBM alliance Company)",
+      "position": "Internal Systems Administrator",
+      "website": "http://www.gbm.net/",
+      "startDate": "2013-08-01",
+      "endDate": "2013-12-01",
+      "summary": "As Business Intelligence Intern at GBM Costa Rica, I developed a complete BI Model using Cognos BI Suite 10 which included: - ETL From SAP CRM. - Construction of Data Metamodel (Fact table and Dimensions). - Reporting services. All of this work was made in order to find out the Percentage Of SLA Fulfillment with customers.",
+      "highlights": ["Made a great Individual Final Project"]
+    },
+    {
+      "company": "Instituto Tecnológico de Costa Rica",
+      "position": "Information System Analyst",
+      "website": "https://www.tec.ac.cr/",
+      "startDate": "2011-03-01",
+      "endDate": "2011-10-01",
+      "summary": "As Information Systems Analyst at the Computer Center of ITCR, I had the opportunity to develop a ASP.NET forms application which collects important information about all the students of the University, for the Department of Social Work and Health.",
       "highlights": []
     },
     {
-      "company": "Reactive",
-      "position": "Front End Developer",
-      "website": "",
-      "startDate": "2014-09-01",
-      "endDate": "2014-11-30",
-      "summary": "At Reactive I was responsible for working with a .NET team to deliver templates using javascript/sass/grunt and handlebars. I also had exposure to TFS for source control.",
-      "highlights": []
-    },
-    {
-      "company": "City of Sydney Council",
-      "position": "Front End Developer",
-      "website": "",
-      "startDate": "2014-05-01",
-      "endDate": "2014-08-31",
-      "summary": "For City of Sydney I was a Front End Developer working with Wordpress on multiple key websites such as Sydneynewyearseve.com.au. All code was developed using LESS and Bootstrap for a consistent responsive interface.",
-      "highlights": []
-    },
-    {
-      "company": "Self Employed",
-      "position": "Freelance Web Developer",
-      "website": "",
-      "startDate": "2010-03-01",
-      "endDate": "2014-05-01",
-      "summary": "As a freelance web developer I mainly concentrated on building bespoke CMS solutions for agencies using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with Advanced Custom Fields and toward the latter end of my freelance venture, responsive layouts.",
-      "highlights": []
-    },
-    {
-      "company": "Soap Creative",
-      "position": "Senior Web Developer",
-      "website": "http://soapcreative.com",
-      "startDate": "2006-07-01",
-      "endDate": "2010-03-01",
-      "summary": "At SOAP I was required to carry out full stack duties across a broad range of projects including php/MySQL with front end technologies ranging from html/css to Flash.",
-      "highlights": []
-    },
-    {
-      "company": "M&C Saatchi",
-      "position": "Web Developer",
-      "website": "http://mcsaatchi.com.au/",
-      "startDate": "2006-05-01",
-      "endDate": "2006-08-31",
-      "summary": "Flash development with xml & amfphp for php/mysql integration.",
-      "highlights": []
-    },
-    {
-      "company": "Wunderman/GPY&R",
-      "position": "Web Developer",
-      "website": "http://www.gpyr.com.au/",
-      "startDate": "2005-07-01",
-      "endDate": "2006-05-01",
-      "summary": "Flash developer using xml & amfphp, html/css with php/mysql backend integration and CMS development.",
-      "highlights": []
-    },
-    {
-      "company": "Federal Publishing Company",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2004-07-01",
-      "endDate": "2005-03-31",
-      "summary": "Lead web developer on homehound.com.au, html/css/javascript development with php & SQL server integration.",
+      "company": "Repuestos Leitón",
+      "position": "THE IT Guy",
+      "website": "https://www.leitoncr.com/",
+      "startDate": "2008-01-01",
+      "endDate": "2010-12-01",
+      "summary": "At my family's company, I worked managing the inventory, giving support to the process of the accounting cycle, configuring the web hosting and organizing digital documentation of the enterprise.",
       "highlights": []
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Birmingham Conservatoire",
-      "area": "Music",
-      "studyType": "Bachelor (hons)",
-      "startDate": "1994-08-01",
-      "endDate": "1998-07-01",
-      "gpa": "",
-      "courses": []
+      "institution": "Costa Rica Institute of Technology",
+      "area": "Information Systems",
+      "studyType": "Master's degree",
+      "startDate": "2014-01-01",
+      "endDate": "2018-01-30",
+      "courses": ["A lot"],
+      "gpa": "94.3"
+    },
+    {
+      "institution": "Next University",
+      "certification": "https://www.credential.net/10297374",
+      "area": "Web Development",
+      "studyType": "Technical",
+      "startDate": "2015-09-15",
+      "endDate": "2016-09-15",
+      "courses": ["HTML5", "CSS3", "JavaScript", "PHP", "jQuery", "jQuery-ui", "PHP", "MySQL"],
+      "gpa": "100.0"
+    },
+    {
+      "institution": "Costa Rica Institute of Technology",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor's degree",
+      "startDate": "2009-01-01",
+      "endDate": "2013-12-01",
+      "courses": ["Tooo many"],
+      "gpa": "80.0"
+    },
+    {
+      "institution": "Czech Technical University",
+      "area": "Computer Science",
+      "studyType": "Erasmus Exchange",
+      "startDate": "2013-01-01",
+      "endDate": "2013-06-01",
+      "courses": ["Advanced Database Systems"],
+      "gpa": "70.0"
+    },
+    {
+      "institution": "Universidad de Costa Rica",
+      "area": "Mathematics",
+      "studyType": "General Studies",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "courses": ["Calculus, Discrete Math, English, Humanities"],
+      "gpa": "90.0"
     }
   ],
   "awards": [],
@@ -138,26 +176,29 @@
       "name": "Front End Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
+        "HTML5",
+        "CSS3",
         "Javascript",
-        "ES2015",
+        "ES6",
         "jQuery",
-        "Typescript",
+        "jQuery-ui",
         "Meteor",
         "React",
-        "Handlebars",
+        "AngularJS",
         "SASS",
         "LESS",
+        "Webpack",
         "Gulp",
         "Grunt",
         "Babel",
         "Bootstrap",
-        "Semantic UI",
-        "Material css",
-        "Node",
-        "php",
+        "NodeJS",
+        "PHP",
+        "C#",
+        "Java",
         "MySQL",
+        "Postgres",
+        "MS SQL Server",
         "Git",
         "Jira",
         "Responsive"
@@ -166,13 +207,17 @@
   ],
   "languages": [
     {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    },
+    {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Full professional proficiency (Ninja Level)"
     }
   ],
   "interests": [
     {
-      "name": "Guitar",
+      "name": "Taekwondo",
       "keywords": []
     }
   ],

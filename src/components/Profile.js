@@ -13,11 +13,15 @@ const Profile = props => {
                   </ul>
                   <div className="divider"></div>
                   <ul className="profileLinks list-inline text-center">
-                    <li><a className="fa fa-twitter fa-2x" href={'https://twitter.com/'+profileObj.profiles[0].username}></a></li>
-                    <li><a className="fa fa-github fa-2x" href={'https://github.com/'+profileObj.profiles[1].username}></a></li>
+                    <li><a className="fa fa-linkedin fa-2x" href={profileObj.profiles[0].url}></a></li>
+                    <li><a className="fa fa-github fa-2x" href={profileObj.profiles[1].url}></a></li>
+                    <li><a className="fa fa-bitbucket fa-2x" href={profileObj.profiles[2].url}></a></li>
+                    <li><a className="fa fa-twitter fa-2x" href={profileObj.profiles[3].url}></a></li>
+                    <li><a className="fa fa-facebook fa-2x" href={profileObj.profiles[4].url}></a></li>
+                    <li><a className="fa fa-instagram fa-2x" href={profileObj.profiles[5].url}></a></li>
                   </ul>
                   <div className="divider"></div>
-                  <p>I built this site with <a href="https://facebook.github.io/react/">React</a> components and a <a href="https://jsonresume.org/schema/">JSON Resume Schema</a>. The full source code can be found in <a href="https://github.com/freaksauce/React-Resume-ES6">my Github repo</a>.</p>
+                  <p>I built this site with <a href="https://facebook.github.io/react/">React</a> components and a <a href="https://jsonresume.org/schema/">JSON Resume Schema</a>. The full source code can be found in <a href="https://github.com/dannyleiton/React-Resume-ES6">my Github repo</a>.</p>
             </div>
 };
 

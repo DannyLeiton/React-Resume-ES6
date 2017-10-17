@@ -7,7 +7,7 @@ const Education = props => {
   		const enddate = moment(item.endDate).format('MMM, YYYY');
   		return (
           <div key={index}>
-            <h3>{item.studyType} {item.area}</h3>
+            <h3><a href={item.certification}>{item.studyType} {item.area}</a></h3>
   				  <h4>{item.institution}</h4>
   				  <p>Studied: {startdate} - {enddate}</p>
   				</div>

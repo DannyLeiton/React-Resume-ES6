@@ -11,7 +11,6 @@ const App = props => {
   const workData = props.jsonObj.work;
   const skillsData = props.jsonObj.skills;
   const educationData = props.jsonObj.education;
-  // console.log(profileData)
   return (
           <div className="container">
             <div className="row">

@@ -8,7 +8,7 @@ const Profile = props => {
                   <h2 className="text-center">{profileObj.label}</h2>
                   <div className="divider"></div>
                   <ul className="list-unstyled contact-links text-center">
-                    <li><i className="fa fa-lg fa-location-arrow"></i>{profileObj.location.city}, {profileObj.location.countryCode}, {profileObj.location.region}</li>
+                    <li><i className="fa fa-lg fa-location-arrow"></i>{profileObj.location.city}, {profileObj.location.countryCode}</li>
                     <li><i className="fa fa-lg fa-envelope"></i><a href={`mailto:${profileObj.email}`}>{profileObj.email}</a></li>
                   </ul>
                   <div className="divider"></div>
